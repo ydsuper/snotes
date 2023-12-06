@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>YDSNotes Blog</title>
+        <link>http://ydsuper.github.io/snotes/blog</link>
+        <description>YDSNotes Blog</description>
+        <lastBuildDate>Wed, 06 Dec 2023 12:34:07 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[历报]]></title>
+            <link>http://ydsuper.github.io/snotes/blog/历报</link>
+            <guid>http://ydsuper.github.io/snotes/blog/历报</guid>
+            <pubDate>Wed, 06 Dec 2023 12:34:07 GMT</pubDate>
+            <description><![CDATA[这是古往今来的个人历报，辑录着个人的工作情况与历程]]></description>
+            <content:encoded><![CDATA[<div class="language-javascript codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_biex"><pre tabindex="0" class="prism-code language-javascript codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><span class="token-line" style="color:#393A34"><span class="token literal-property property" style="color:#36acaa">【注释标记语法扩展】</span><span class="token plain"></span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">tip</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 提示或建议</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">note</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 一般性注释或说明</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">warning</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 警告或注意事项</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">danger</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 表示危险或需要谨慎的内容</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">info</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 提供额外的信息</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">success</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 成功或积极的信息</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">auth</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 作者信息</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">cite</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 引用来源</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">quote</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 引用或摘录</span><br></span><span class="token-line" style="color:#393A34"><span class="token plain"></span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token operator" style="color:#393A34">:</span><span class="token plain">comment</span><span class="token operator" style="color:#393A34">:</span><span class="token plain"> 评论或注释</span><br></span></code></pre><div class="buttonGroup__atx"><button type="button" aria-label="复制代码到剪贴板" title="复制" class="clean-btn"><span class="copyButtonIcons_eSgA" aria-hidden="true"><svg viewBox="0 0 24 24" class="copyButtonIcon_y97N"><path fill="currentColor" d="M19,21H8V7H19M19,5H8A2,2 0 0,0 6,7V21A2,2 0 0,0 8,23H19A2,2 0 0,0 21,21V7A2,2 0 0,0 19,5M16,1H4A2,2 0 0,0 2,3V17H4V3H16V1Z"></path></svg><svg viewBox="0 0 24 24" class="copyButtonSuccessIcon_LjdS"><path fill="currentColor" d="M21,7L9,19L3.5,13.5L4.91,12.09L9,16.17L19.59,5.59L21,7Z"></path></svg></span></button></div></div></div>
+<div class="theme-admonition theme-admonition-note admonition_xJq3 alert alert--secondary"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M6.3 5.69a.942.942 0 0 1-.28-.7c0-.28.09-.52.28-.7.19-.18.42-.28.7-.28.28 0 .52.09.7.28.18.19.28.42.28.7 0 .28-.09.52-.28.7a1 1 0 0 1-.7.3c-.28 0-.52-.11-.7-.3zM8 7.99c-.02-.25-.11-.48-.31-.69-.2-.19-.42-.3-.69-.31H6c-.27.02-.48.13-.69.31-.2.2-.3.44-.31.69h1v3c.02.27.11.5.31.69.2.2.42.31.69.31h1c.27 0 .48-.11.69-.31.2-.19.3-.42.31-.69H8V7.98v.01zM7 2.3c-3.14 0-5.7 2.54-5.7 5.68 0 3.14 2.56 5.7 5.7 5.7s5.7-2.55 5.7-5.7c0-3.15-2.56-5.69-5.7-5.69v.01zM7 .98c3.86 0 7 3.14 7 7s-3.14 7-7 7-7-3.12-7-7 3.14-7 7-7z"></path></svg></span>备注</div><div class="admonitionContent_BuS1"><p>这是古往今来的个人历报，辑录着个人的工作情况与历程</p></div></div>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="写在前面">写在前面<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#%E5%86%99%E5%9C%A8%E5%89%8D%E9%9D%A2" class="hash-link" aria-label="写在前面的直接链接" title="写在前面的直接链接">​</a></h2>
+<p>下面会记录个人的日报或者周报情况，不一定全面详细，但会体现个人一直以来的工作情况，重点突出个人历程的记录，方便回顾复盘，愿与君共勉！</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="序文">序文<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#%E5%BA%8F%E6%96%87" class="hash-link" aria-label="序文的直接链接" title="序文的直接链接">​</a></h2>
+<div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>信息</div><div class="admonitionContent_BuS1"><p>寒窗苦读十余载，厚积薄发载(zài)登云</p></div></div>
+<p>离校后，遂寻实习，入职叠纸科技，签了2年，自2022年7月22日至2024年7月22日。</p>
+<p>工作岗位：前端工程师
+工作内容：ToB项目开发
+技术栈应用：React、UmiJS、NextJS、Vue
+具体成果：截止2023.12.01，独立开发5个项目（含同项目第二版），协同开发2个项目，参与迭代维护2个项目，一共 <strong>八</strong> 个项目。这里只针对之前的历程简单说明总结，提升的地方有很多，个人感觉还有更多更广阔的星空等待着我去探索，这是一场求知探寻的道路，这也是一场自我蜕变的旅程，<strong>不负年少追梦赤子！</strong></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="正文">正文<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#%E6%AD%A3%E6%96%87" class="hash-link" aria-label="正文的直接链接" title="正文的直接链接">​</a></h2>
+<blockquote>
+<p>这篇文档正式撰文始于：2023年12月01日</p>
+</blockquote>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2023年">2023年<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#2023%E5%B9%B4" class="hash-link" aria-label="2023年的直接链接" title="2023年的直接链接">​</a></h3>
+<ul>
+<li>
+<p><strong>12月01日（Fri）</strong></p>
+<p>技术中心平台：</p>
+<ul>
+<li>echarts图表的legend调整到左边，toolbox调整位置等，默认启用 <code>takeGlobalCursor</code> 功能</li>
+<li>dataZoom组件，给所有图表添加slider类型的区域缩放组件</li>
+<li>调整图表下方的数据标签排版</li>
+</ul>
+</li>
+<li>
+<p><strong>12月04日（Mon）</strong></p>
+<p>技术中心平台：</p>
+<ul>
+<li>echarts图表增加中键操作，取代鼠标左键长按拖动图表（ps: 4⭐）</li>
+<li>调整了 <code>takeGlobalCursor</code> 功能的开启方式，之前是默认开启，改为手动按下左键开启，松开左键手动关闭。这种方式，解决了其和自定义的中键功能产生冲突的问题</li>
+<li>优化了echarts图表的dataZoom事件处理，维护折线图的dataZoom百分比数据</li>
+</ul>
+</li>
+<li>
+<p><strong>12月05日（Tues）</strong></p>
+<p>技术中心平台：</p>
+<ul>
+<li>echarts图表添加markArea时，隐藏所有标记名，鼠标悬浮自动显示标记名，同时解决在Tabs切换图表时，自动同步的markArea无法显示标记名问题，手动在初始化阶段延迟再次执行setOption重绘图表</li>
+<li>维护dataZoom百分比数据，拖动dataZoom<!-- -->:slider<!-- -->横轴组件时未维护</li>
+</ul>
+</li>
+<li>
+<p><strong>12月06日（Wed）</strong></p>
+<p>技术中心平台：</p>
+<ul>
+<li>echarts下方数据添加美术场景tag</li>
+<li>根据后端数据，调整节点树构建，</li>
+</ul>
+</li>
+<li>
+<p><strong>12月07日（Thur）</strong></p>
+</li>
+<li>
+<p><strong>12月08日（Fri）</strong></p>
+</li>
+</ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
