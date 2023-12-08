@@ -92,6 +92,11 @@
 <ul>
 <li>学习md的YAML配置以及docusaurus的一些配置</li>
 <li>配置docs笔记，解决action部署问题</li>
+<li>创建algolia应用，给站点配置内容搜索功能</li>
+</ul>
+<p>技术中心平台：</p>
+<ul>
+<li>包分发页面移除原来的重定向到历史分发id页面，设置用户访问项目前置鉴权，不通过重定向首页</li>
 </ul>
 </li>
 <li></li>
