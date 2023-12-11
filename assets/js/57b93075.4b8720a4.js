@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[3768],{2966:e=>{e.exports=JSON.parse('[{"label":"\u4e2a\u4eba\u7ecf\u5386","permalink":"/snotes/blog/tags/\u4e2a\u4eba\u7ecf\u5386","count":1},{"label":"tool","permalink":"/snotes/blog/tags/tool","count":1},{"label":"markdown","permalink":"/snotes/blog/tags/markdown","count":1}]')}}]);

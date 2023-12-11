@@ -19,8 +19,11 @@
 <p>下面会记录个人的日报或者周报情况，不一定全面详细，但会体现个人一直以来的工作情况，重点突出个人历程的记录，方便回顾复盘，愿与君共勉！</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="序文">序文<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#%E5%BA%8F%E6%96%87" class="hash-link" aria-label="序文的直接链接" title="序文的直接链接">​</a></h2>
 <div class="theme-admonition theme-admonition-info admonition_xJq3 alert alert--info"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 14 16"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"></path></svg></span>有感</div><div class="admonitionContent_BuS1"><p>寒窗苦读十余载，厚积薄发载(zài)登云</p></div></div>
-<p>离校后，遂寻实习，入职叠纸，合约两年，自 2022 年 7 月 22 日至 2024 年 7 月 22 日。</p>
-<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>云诗</div><div class="admonitionContent_BuS1"><font size="4"><b>复思觅路，盼磐实</b></font><br><p>忙忙碌碌慰几何，辗辗转转坐百班。</p><br><p>不劳不惑惟心愁，生郁深闷若木鸡。</p><br><p>推文甩墨不得燥，劝君思去莫复还。</p><br><p>求得绪果释重石，徐徐散尽悟历己。</p><p>             —— 益达 SUPER</p></div></div>
+<p>离校后，遂寻实习，入职叠纸，自 2022 年 7 月 22 日至 2024 年 7 月 22 日，1年后又续1年，合约两年矣。</p>
+<div class="theme-admonition theme-admonition-tip admonition_xJq3 alert alert--success"><div class="admonitionHeading_Gvgb"><span class="admonitionIcon_Rf37"><svg viewBox="0 0 12 16"><path fill-rule="evenodd" d="M6.5 0C3.48 0 1 2.19 1 5c0 .92.55 2.25 1 3 1.34 2.25 1.78 2.78 2 4v1h5v-1c.22-1.22.66-1.75 2-4 .45-.75 1-2.08 1-3 0-2.81-2.48-5-5.5-5zm3.64 7.48c-.25.44-.47.8-.67 1.11-.86 1.41-1.25 2.06-1.45 3.23-.02.05-.02.11-.02.17H5c0-.06 0-.13-.02-.17-.2-1.17-.59-1.83-1.45-3.23-.2-.31-.42-.67-.67-1.11C2.44 6.78 2 5.65 2 5c0-2.2 2.02-4 4.5-4 1.22 0 2.36.42 3.22 1.19C10.55 2.94 11 3.94 11 5c0 .66-.44 1.78-.86 2.48zM4 14h5c-.23 1.14-1.3 2-2.5 2s-2.27-.86-2.5-2z"></path></svg></span>云诗</div><div class="admonitionContent_BuS1"><font size="4"><b>复思觅路，盼磐实</b></font><br><p>忙忙碌碌慰几何，辗辗转转坐百班。<br>
+不劳不惑惟心愁，生郁深闷若木鸡。<br>
+推文甩墨不得燥，劝君思去莫复还。<br>
+求得绪果释重石，徐徐散尽悟历己。</p><p>             —— 益达SUPER</p></div></div>
 <p>工作岗位：前端工程师<br>工作内容：ToB 项目开发<br>
 技术栈应用：React、UmiJS、NextJS、Vue<br>
 具体成果：截止 2023.12.01，已独立开发 5 个项目（含同项目第二版），协同开发 2 个项目，参与迭代维护 2 个项目，一共 <strong>八</strong> 个项目。<br>这里只针对之前的历程简单说明总结，提升的地方有很多，还有更多更广阔的星空等待着我去探索，这是一场求知探寻的道路，这也是一场自我蜕变的旅程，<strong>不负年少追梦赤子！</strong></p>
@@ -34,42 +37,42 @@
 <p><strong>12 月 01 日（Fri）</strong></p>
 <p>技术中心平台：</p>
 <ul>
-<li>echarts 图表的 legend 调整到左边，toolbox 调整位置等，默认启用 <code>takeGlobalCursor</code> 功能</li>
-<li>dataZoom 组件，给所有图表添加 slider 类型的区域缩放组件</li>
-<li>调整图表下方的数据标签排版</li>
+<li><code>feat</code> echarts 图表的 legend 调整到左边，toolbox 调整位置等，默认启用 <code>takeGlobalCursor</code> 功能</li>
+<li><code>feat</code> dataZoom 组件，给所有图表添加 slider 类型的区域缩放组件</li>
+<li><code>style</code> 调整图表下方的数据标签排版</li>
 </ul>
 </li>
 <li>
 <p><strong>12 月 04 日（Mon）</strong></p>
 <p>技术中心平台：</p>
 <ul>
-<li>echarts 图表增加中键操作，取代鼠标左键长按拖动图表（ps: 4⭐）</li>
-<li>调整了 <code>takeGlobalCursor</code> 功能的开启方式，之前是默认开启，改为手动按下左键开启，松开左键手动关闭。这种方式，解决了其和自定义的中键功能产生冲突的问题</li>
-<li>优化了 echarts 图表的 dataZoom 事件处理，维护折线图的 dataZoom 百分比数据</li>
+<li><code>feat</code> echarts 图表增加中键操作，取代鼠标左键长按拖动图表（ps: 4⭐）</li>
+<li><code>feat</code> 调整了 <code>takeGlobalCursor</code> 功能的开启方式，之前是默认开启，改为手动按下左键开启，松开左键手动关闭。这种方式，解决了其和自定义的中键功能产生冲突的问题</li>
+<li><code>feat</code> 优化了 echarts 图表的 dataZoom 事件处理，维护折线图的 dataZoom 百分比数据</li>
 </ul>
 </li>
 <li>
 <p><strong>12 月 05 日（Tues）</strong></p>
 <p>技术中心平台：</p>
 <ul>
-<li>echarts 图表添加 markArea 时，隐藏所有标记名，鼠标悬浮自动显示标记名，同时解决在 Tabs 切换图表时，自动同步的 markArea 无法显示标记名问题，手动在初始化阶段延迟再次执行 setOption 重绘图表</li>
-<li>维护 dataZoom 百分比数据，拖动 dataZoom<!-- -->:slider<!-- --> 横轴组件时未维护</li>
+<li><code>feat</code> echarts 图表添加 markArea 时，隐藏所有标记名，鼠标悬浮自动显示标记名，同时解决在 Tabs 切换图表时，自动同步的 markArea 无法显示标记名问题，手动在初始化阶段延迟再次执行 setOption 重绘图表</li>
+<li><code>feat</code> 维护 dataZoom 百分比数据，拖动 dataZoom<!-- -->:slider<!-- --> 横轴组件时未维护</li>
 </ul>
 </li>
 <li>
 <p><strong>12 月 06 日（Wed）</strong></p>
 <p>技术中心平台：</p>
 <ul>
-<li>echarts 下方数据添加美术场景 tag</li>
-<li>根据后端数据，调整节点树构建，绘制 markLine 时更新节点和美术场景数据(tag 展示)</li>
+<li><code>feat</code> echarts 下方数据添加美术场景 tag</li>
+<li><code>feat</code> 根据后端数据，调整节点树构建，绘制 markLine 时更新节点和美术场景数据(tag 展示)</li>
 </ul>
 <p>YDSNotes：</p>
 <ul>
 <li>
-<p>搭建初版学习笔记，配置 workflows，尝试 Github Action 自动部署</p>
+<p><code>chore</code> 搭建初版学习笔记，配置 workflows，尝试 Github Action 自动部署</p>
 </li>
 <li>
-<p>YDSNotes 成功自动化部署到 Github Pages，采用 <a href="https://docusaurus.io/docs/deployment#triggering-deployment-with-github-actions" target="_blank" rel="noopener noreferrer">Remote</a> 方式，from <code>private</code> to <code>public</code></p>
+<p><code>chore</code> YDSNotes 成功自动化部署到 Github Pages，采用 <a href="https://docusaurus.io/docs/deployment#triggering-deployment-with-github-actions" target="_blank" rel="noopener noreferrer">Remote</a> 方式，from <code>private</code> to <code>public</code></p>
 <p>配置后尝试部署失败 2 次，复盘：</p>
 <ul>
 <li>使用 <code>yarn</code> 命令进行部署，不能忽略上传 <code>yarn.lock</code> 文件</li>
@@ -82,8 +85,8 @@
 <p><strong>12 月 07 日（Thur）</strong></p>
 <p>YDSNotes：</p>
 <ul>
-<li>优化我的在线学习笔记站点，简单调整首页和 logo</li>
-<li>"历报.mdx" 更新内容</li>
+<li><code>feat</code> 优化我的在线学习笔记站点，简单调整首页和 logo</li>
+<li><code>docs</code> "历报.mdx" 更新内容</li>
 </ul>
 </li>
 <li>
@@ -91,15 +94,49 @@
 <p>YDSNotes：</p>
 <ul>
 <li>学习md的YAML配置以及docusaurus的一些配置</li>
-<li>配置docs笔记，解决action部署问题</li>
-<li>创建algolia应用，给站点配置内容搜索功能</li>
+<li><code>chore</code> 配置docs笔记，解决action部署问题</li>
+<li><code>feat</code> 创建algolia应用，给站点配置内容搜索功能</li>
 </ul>
 <p>技术中心平台：</p>
 <ul>
-<li>包分发页面移除原来的重定向到历史分发id页面，设置用户访问项目前置鉴权，不通过重定向首页</li>
+<li><code>feat</code> 包分发页面移除原来的重定向到历史分发id页面，设置用户访问项目前置鉴权，不通过重定向首页，实现分发页可通过修改路由ID直达</li>
 </ul>
 </li>
-<li></li>
+<li>
+<p><strong>12 月 11 日（Mon）</strong></p>
+<p>技术中心平台：</p>
+<ul>
+<li>
+<p><code>bug</code> 选择树选节点数据筛选表格数据，将分割<code>.</code>符号后的数组，单项判断改为利用 <code>some</code> 遍历判断</p>
+</li>
+<li>
+<p><code>feat</code> 对于echarts，实现Y轴的范围不会随着拖动 <code>dataZoomX</code> 改变X轴过滤柱子时而自适应（不让Y轴自适应）</p>
+<blockquote>
+<p>这个问题经历了很久，之前几次的迭代也有过，这次下定决心非解决不可了！
+如今有了翻阅echarts文档的经验，仔细查阅着相关配置，终于有了收获，只需要利用 <code>filterMode:empty</code> 就可以实现 XY 轴互不影响！复盘：为什么之前却没直接解决？一是对echarts文档的熟识程度还不够 二是之前调试的时候可能完美避开了正解，于是进入"歧途"，至今凿正！</p>
+</blockquote>
+</li>
+<li>
+<p><code>bug</code> 解决别人之前解决ID直达分页的代码所导致的问题，利用 <code>checkout</code> 回滚之前版本的指定文件：<code>git checkout &lt;commit&gt; -- 文件/相对路径</code>，并添加相应逻辑统一处理到model模块的鉴权位置</p>
+</li>
+</ul>
+<p>X3仪表盘：</p>
+<ul>
+<li>日历页的分支 BarChart，其中 tooltip 组件，添加一条展示数据</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 12 日（Tues）</strong></p>
+</li>
+<li>
+<p><strong>12 月 13 日（Wed）</strong></p>
+</li>
+<li>
+<p><strong>12 月 14 日（Thur）</strong></p>
+</li>
+<li>
+<p><strong>12 月 15 日（Fri）</strong></p>
+</li>
 </ul>]]></content:encoded>
             <category>个人经历</category>
         </item>
