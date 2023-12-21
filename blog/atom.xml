@@ -30,7 +30,7 @@
 <blockquote>
 <p>这篇文档正式撰文始于：2023 年 12 月 01 日</p>
 </blockquote>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2023-年">2023 年<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#2023-%E5%B9%B4" class="hash-link" aria-label="2023 年��的直接链接" title="2023 年的直接链接">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2023-年">2023 年<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#2023-%E5%B9%B4" class="hash-link" aria-label="2023 年�的直接链接" title="2023 年的直接链接">​</a></h3>
 <ul>
 <li>
 <p><strong>12 月 01 日（Fri）</strong></p>
@@ -121,7 +121,7 @@
 </ul>
 <p>X3仪表盘：</p>
 <ul>
-<li>日历页的分支 BarChart，其中 tooltip 组件，添加一条展示数据</li>
+<li><code>feat</code> 日历页的分支 BarChart，其中 tooltip 组件，添加一条展示数据</li>
 </ul>
 </li>
 <li>
@@ -150,12 +150,49 @@
 <p><strong>12 月 15 日（Fri）</strong></p>
 <p>X3仪表盘：</p>
 <ul>
-<li>重新设置 <code>cfids</code> 常量，自定义字段P4开发分支</li>
+<li><code>style</code> 重新设置 <code>cfids</code> 常量，自定义字段P4开发分支</li>
 </ul>
-<p>技术平台</p>
+<p>技术中心平台：</p>
 <ul>
 <li><code>feat</code>：获取美术场景数据，在设置 markLine 时，同时设置当前的美术场景tag</li>
 </ul>
+</li>
+<li>
+<p><strong>12 月 18 日（Mon）</strong></p>
+<p>技术中心平台：</p>
+<ul>
+<li><code>feat</code> AB模块页面基础路由模式，变为可选的动态路由，页面支持修改路由ID直达，也可以不输入ID根据本地信息直达</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 19 日（Tues）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 日历页，调整标注线为实线，调整日期标注文本的位置</li>
+<li><code>feat</code> 条形图的Y轴分支名称，替换使用的数据字段："TB_开发分支P4" → "版本称呼"</li>
+<li><code>feat</code> 处理[我的任务]和[参与任务]，没有任务的节点，Y轴分支名称置为空</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 20 日（Wed）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 条形图的显示的判断依据，由"是否有上线时间" → 校验"是否显示在仪表盘"字段</li>
+<li><code>ui</code> 调整日期文本的位置</li>
+<li><code>feat</code> 日历页添加一个 [我的bug] <strong>Tab</strong>，同 [我的任务] 和 [参与任务] Tab</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 21 日（Thur）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>ui</code> 升级antd的版本号 <code>^5.3.0</code> → <code>^5.12.4</code>，并使用 Segmented 组件的Design Token，修改样式</li>
+<li>复读 <code>antd-charts@1.4.2</code>，调研 <code>antd-charts@2.x</code>，有很多调整的参数，有些地方比之前更完善，例如：标记-Annotations，区分了lineX、lineY，即时是条形图，纵向的标记线铺满了整个chart图（v1做不到）</li>
+<li><code>feat</code> 条形图的文本标注-Annotations，将代表任务数的 <code>tag</code> 标签设置到组件的右上角位置（之前没弄出，论复读的重要性）</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 22 日（Fri）</strong></p>
 </li>
 </ul>]]></content>
         <category label="个人经历" term="个人经历"/>
