@@ -179,7 +179,7 @@
 <p>X3仪表盘：</p>
 <ul>
 <li><code>feat</code> 条形图的显示的判断依据，由"是否有上线时间" → 校验"是否显示在仪表盘"字段</li>
-<li><code>ui</code> 调整日期文本的位置</li>
+<li><code>refactor</code> 调整日期文本的位置</li>
 <li><code>feat</code> 日历页添加一个 [我的bug] <strong>Tab</strong>，同 [我的任务] 和 [参与任务] Tab</li>
 </ul>
 </li>
@@ -187,13 +187,51 @@
 <p><strong>12 月 21 日（Thur）</strong></p>
 <p>X3仪表盘：</p>
 <ul>
-<li><code>ui</code> 升级antd的版本号 <code>^5.3.0</code> → <code>^5.12.4</code>，并使用 Segmented 组件的Design Token，修改样式</li>
+<li><code>chore</code> 升级antd的版本号 <code>^5.3.0</code> → <code>^5.12.4</code>，并使用 Segmented 组件的Design Token，修改样式</li>
 <li>复读 <code>antd-charts@1.4.2</code>，调研 <code>antd-charts@2.x</code>，有很多调整的参数，有些地方比之前更完善，例如：标记-Annotations，区分了lineX、lineY，即时是条形图，纵向的标记线铺满了整个chart图（v1做不到）</li>
 <li><code>feat</code> 条形图的文本标注-Annotations，将代表任务数的 <code>tag</code> 标签设置到组件的右上角位置（之前没弄出，论复读的重要性）</li>
 </ul>
 </li>
 <li>
 <p><strong>12 月 22 日（Fri）</strong></p>
+<p>AI绘画</p>
+<ul>
+<li><code>fix</code> 解决由 [已登录时拦截前往登录] 导致的jwt失效或者退出登录时无法重定向</li>
+<li><code>feat</code> 添加 comfyui.material.lace 绘制模式</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 25 日（Mon）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 日历页，根据子版本的数据，条形图 [自定义区间堆叠] 样式，每个区间代表当前的子版本号，从V1-Vn</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 25 日（Tues）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 实现QA切换功能，[研发] | [QA] 使用两套日期范围的数据，实现 [所有分支] 的图表数据可视化切换</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 25 日（Wed）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 日历页，点击有任务的Bar，将原来的抽屉模块，调整为：将当前图表的所有任务放置到折叠面板中，并将当前点击对应分支进行查看的任务放置到第一个面板，并自动展开。</li>
+<li><code>fix</code> 修复QA切换时，导致所有tab的图表数据都被覆盖，实际仅需要切换 [所有任务] tab图表数据</li>
+<li><code>feat</code> 设置 Bar 的区间主题色color10，设置10个，并设置保险，在子版本超出时，自动从color10中循环使用</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 25 日（Thur）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>refactor</code> 调整P4任务自定义字段的判断依据，归入到当前相关任务中</li>
+</ul>
+</li>
+<li>
+<p><strong>12 月 25 日（Fri）</strong></p>
 </li>
 </ul>]]></content:encoded>
             <category>个人经历</category>
