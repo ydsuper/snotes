@@ -231,6 +231,52 @@
 </li>
 <li>
 <p><strong>12 月 25 日（Fri）</strong></p>
+<p>AI绘画：</p>
+<ul>
+<li><code>feat</code> 模型:材质刺绣，新增模板选择项，并配置其他参数和手动设置默认参数</li>
+<li><code>fix</code> 修复添加RToggle组件切换显示状态后，导致刺绣模型的上传图片，第二张图的上传方法为空，无法进行上传</li>
+</ul>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>refactor</code>  自定义SwitchTab，点击组件自由切换tab的控件，替换原来使用antd的</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2024-年">2024 年<a href="http://ydsuper.github.io/snotes/blog/%E5%8E%86%E6%8A%A5#2024-%E5%B9%B4" class="hash-link" aria-label="2024 年的直接链接" title="2024 年的直接链接">​</a></h3>
+<ul>
+<li>
+<p><strong>1 月 01 日（Mon）</strong></p>
+<p>🎉元旦放假一天！</p>
+</li>
+<li>
+<p><strong>1 月 02 日（Tues）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 点击有任务的条形图所弹出的抽屉表格数据，允许其根据截止时间进行排序，根据状态字段进行筛选</li>
+</ul>
+<p>AI绘画：</p>
+<ul>
+<li><code>refactor</code> 模型:材质刺绣，模板选择:通用，更新所需参数，以及相关参数所需的默认值</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 03 日（Wed）</strong></p>
+<p>YDSNotes：</p>
+<ul>
+<li>
+<p><code>feat</code> 跑通爬取数据流程，将文档数据通过爬虫程序上传至Algolia平台，成功实现搜索功能</p>
+<blockquote>
+<p>简述核心流程：1.配置 <code>.env</code> 文件和 <code>config.json</code>  2.安装 <a href="https://docs.docker.com/desktop/install/windows-install/" target="_blank" rel="noopener noreferrer">Docker Desktop</a>，然后安装 chocolatey，通过 chocolatey 再安装 jq  3.最后执行爬虫程序</p>
+</blockquote>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 04 日（Thur）</strong></p>
+</li>
+<li>
+<p><strong>1 月 05 日（Fri）</strong></p>
 </li>
 </ul>]]></content>
         <category label="个人经历" term="个人经历"/>
