@@ -35,7 +35,7 @@
 <ul>
 <li>
 <p><strong>12 月 01 日（Fri）</strong></p>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code> echarts 图表的 legend 调整到左边，toolbox 调整位置等，默认启用 <code>takeGlobalCursor</code> 功能</li>
 <li><code>feat</code> dataZoom 组件，给所有图表添加 slider 类型的区域缩放组件</li>
@@ -44,7 +44,7 @@
 </li>
 <li>
 <p><strong>12 月 04 日（Mon）</strong></p>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code> echarts 图表增加中键操作，取代鼠标左键长按拖动图表（ps: 4⭐）</li>
 <li><code>feat</code> 调整了 <code>takeGlobalCursor</code> 功能的开启方式，之前是默认开启，改为手动按下左键开启，松开左键手动关闭。这种方式，解决了其和自定义的中键功能产生冲突的问题</li>
@@ -53,7 +53,7 @@
 </li>
 <li>
 <p><strong>12 月 05 日（Tues）</strong></p>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code> echarts 图表添加 markArea 时，隐藏所有标记名，鼠标悬浮自动显示标记名，同时解决在 Tabs 切换图表时，自动同步的 markArea 无法显示标记名问题，手动在初始化阶段延迟再次执行 setOption 重绘图表</li>
 <li><code>feat</code> 维护 dataZoom 百分比数据，拖动 dataZoom<!-- -->:slider<!-- --> 横轴组件时未维护</li>
@@ -61,7 +61,7 @@
 </li>
 <li>
 <p><strong>12 月 06 日（Wed）</strong></p>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code> echarts 下方数据添加美术场景 tag</li>
 <li><code>feat</code> 根据后端数据，调整节点树构建，绘制 markLine 时更新节点和美术场景数据(tag 展示)</li>
@@ -97,14 +97,14 @@
 <li><code>chore</code> 配置docs笔记，解决action部署问题</li>
 <li><code>feat</code> 创建algolia应用，给站点配置内容搜索功能</li>
 </ul>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code> 包分发页面移除原来的重定向到历史分发id页面，设置用户访问项目前置鉴权，不通过重定向首页，实现分发页可通过修改路由ID直达</li>
 </ul>
 </li>
 <li>
 <p><strong>12 月 11 日（Mon）</strong></p>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li>
 <p><code>bug</code> 选择树选节点数据筛选表格数据，将分割<code>.</code>符号后的数组，单项判断改为利用数组 <code>some</code> 方法遍历判断</p>
@@ -153,14 +153,14 @@
 <ul>
 <li><code>style</code> 重新设置 <code>cfids</code> 常量，自定义字段P4开发分支</li>
 </ul>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code>：获取美术场景数据，在设置 markLine 时，同时设置当前的美术场景tag</li>
 </ul>
 </li>
 <li>
 <p><strong>12 月 18 日（Mon）</strong></p>
-<p>技术中心平台：</p>
+<p>技术中心：</p>
 <ul>
 <li><code>feat</code> AB模块页面基础路由模式，变为可选的动态路由，页面支持修改路由ID直达，也可以不输入ID根据本地信息直达</li>
 </ul>
@@ -294,12 +294,21 @@
 </li>
 <li>
 <p><strong>1 月 08 日（Mon）</strong></p>
+<p>技术中心：</p>
+<ul>
+<li><code>feat</code> GameLog页面，提供节点下拉筛选，筛选后需要将Tab（全部、Warning、Error）的文本内容过滤掉帧号不处在当前所选节点的帧号范围内的文本（进度80%）</li>
+</ul>
 </li>
 <li>
 <p><strong>1 月 09 日（Tues）</strong></p>
+<p>有事，请假一天</p>
 </li>
 <li>
 <p><strong>1 月 10 日（Wed）</strong></p>
+<p>技术中心：</p>
+<ul>
+<li><code>feat</code> GameLog页面，完善筛选后过滤Error相关文本，[全部]Tab 下的Error信息文本首个才有帧号，后面的文本都包含于该Error信息，需特殊处理该段内容，是否满足所选的帧号范围（进度100%）</li>
+</ul>
 </li>
 <li>
 <p><strong>1 月 11 日（Thur）</strong></p>
