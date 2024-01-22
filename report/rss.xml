@@ -312,9 +312,99 @@
 </li>
 <li>
 <p><strong>1 月 11 日（Thur）</strong></p>
+<p>AI绘画：</p>
+<ul>
+<li>
+<p><code>feat</code> 将"XX_妆容"模型的"后处理微调咒语"修改为"是否开启AI"</p>
+</li>
+<li>
+<p><code>feat</code> "XX_礼盒"模型其中2个模板，新增"是否开启AI"</p>
+</li>
+<li>
+<p><code>refactor</code> 自动化构建ModelDrawMode所需的proxy target，以后新增模型，无需手动再配置此项target</p>
+</li>
+<li>
+<p>查找控制台 Warning 提示警告的原因&amp;解决</p>
+<blockquote>
+<ol>
+<li>
+<p>[rc-collapse] <code>children</code> will be removed in next major version. Please use <code>items</code> instead.</p>
+<p>修改 Collapse 组件的子集使用方式，下个主要版本当前的 <code>children</code> 模式就会被删除</p>
+</li>
+<li>
+<p>Can't perform a React state update on an unmounted component. This is a no-op, but it indicates a memory leak in your application. To fix, cancel all subscriptions and asynchronous tasks in a useEffect cleanup function.</p>
+<p>React针对卸载时调用setState，会警告内存泄漏。此警告是为订阅添加的，升级 React18 将解决这个问题 <a href="https://github.com/facebook/react/issues/20339#bad" target="_blank" rel="noopener noreferrer">详见此链接</a></p>
+</li>
+</ol>
+</blockquote>
+</li>
+</ul>
 </li>
 <li>
 <p><strong>1 月 12 日（Fri）</strong></p>
+<p>AI绘画：</p>
+<ul>
+<li><code>feat</code> "XX_海报背景"模型添加 change_extend 参数并移除 denoise 参数</li>
+<li><code>feat</code> 移除所有的 prompt 文本域输入框的必填配置（必填 → 可选）</li>
+</ul>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 配置性能简报下的动卡页面路由</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 15 日（Mon）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 绘制动卡全部tab下展示的页面。封装分类分割线组件、卡片组件，柱状Icon组件，静态展示在页面上。</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 16 日（Tues）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 获取数据，动态绘制动卡页面</li>
+<li><code>feat</code> 搭建卡片详情页面，面包屑布局，获取数据并处理成下拉数据，根据动卡id动态显示</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 17 日（Wed）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>fix</code> 布局卡片名称和数值时，适配数值含小数的数据</li>
+<li><code>fix</code> 调整下拉数据的处理时期，修复从动卡页点击卡片进入详情页后，显示的动卡名称和id不匹配</li>
+<li><code>feat</code> 绘制动态的柱状Icon，根据最近7条的打分数据，等比例换算给css height样式，直观查看趋势</li>
+<li><code>feat</code> 绘制详情页的可视化面板部分（进度20%）</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 18 日（Thur）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 绘制详情页的可视化面板部分，获取折线图数据并处理成所需格式（进度70%）<!-- -->
+<ul>
+<li>调研Store库，使用基于事件派发的状态管理库 <code>zustand</code>，统一管理卡片数据等</li>
+<li>处理卡片分数数据，各图显示查看分数时的数据</li>
+<li>迭代 SwitchTab切换组件的样式，适配size不同的尺寸的样式</li>
+</ul>
+</li>
+<li><code>feat</code> 切换动卡，获取新数据并可视化展示</li>
+<li><code>chore</code>  删除空文件，升级antd从 5.12.4 → 5.13.1 使用 TypeScript 导出的 <code>GetProp</code> 等方法，解决 ci Error报错</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 19 日（Fri）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 绘制详情页的可视化面板部分，获取折线图数据并处理成所需格式（进度95%）<!-- -->
+<ul>
+<li>处理数据，实现切换 [分数] 和 [数值] 两种模式下的折线图数据</li>
+<li>[数值] 模式下，针对卡顿、内存、功耗，切换两种不同的数据</li>
+<li>封装卡片详情单项可视化组件：Title、Progress、SwitchTab1|2、CardLine，复用4项数据</li>
+<li>绘制markLine，点击任意图表时，同时绘制4张折线图的markLine，采用Store数据更新时</li>
+</ul>
+</li>
+</ul>
 </li>
 </ul>]]></content:encoded>
             <category>个人经历</category>
