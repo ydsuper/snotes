@@ -405,6 +405,54 @@
 </li>
 </ul>
 </li>
+<li>
+<p><strong>1 月 22 日（Mon）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 绘制详情页的可视化面板部分，获取折线图数据并处理成所需格式（进度100%）<!-- -->
+<ul>
+<li>解决markLine x轴标注问题，修改xAxis的类型模式，<code>time</code> → <code>timeCat</code> 仅展示数据中的日期数据</li>
+<li>将原来在每个图表旁边的按设备查看跳转按钮，统一移除，并调整到面包屑旁边</li>
+<li>在每个仪表盘(进度条)右上角添加提示图标，以及对应的数据说明文案(ReactNode)</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 23 日（Tues）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 新增查询工具页，Tab1：查询OpenID，输入猎人编号(用户ID)，进行查询，有结果就显示在Input组件中，有错误信息就设置Input <code>status='error'</code> 表示查询错误</li>
+<li><code>fix</code> 修复从卡片详情页前往设备查看页时，routeParams<!-- -->:cardId<!-- --> 出现闪变的情况，导致匹配不一致</li>
+<li><code>fix</code> 修复从设备查看页返回卡片详情页时，routeParams<!-- -->:cardId<!-- --> 出现闪变的情况，导致匹配不一致</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 24 日（Wed）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li>🚧<!-- --> 调研KeepAlive组件，自定义实现</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 25 日（Thur）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 动卡页面，首页的Tabs切换，根据角色对应动卡的json数据，对卡片数据进行分类，切换角色Tab时仅展示当前所属动卡</li>
+<li><code>refactor</code> 重构查询工具页面的目录结构，创建目录，并迁移分理出之前的Tab组件，将一个TabItem创建成新的组件，并引入到 index 中使用</li>
+<li><code>feat</code> 新增查询oss文件 Tab，根据服务器、日期查询oss文件及信息；将查询数据展示成Table形式，超链接提供打开新页进行下载，路径信息提供搜索与筛选，自定义筛选搜索，提供搜索高亮</li>
+<li><code>chore</code> 设置路径别名 <code>@</code> 等效为：<code>./src</code></li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 26 日（Fri）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>style</code> 调整导航Nav中查询工具Link的位置</li>
+<li><code>chore</code> 解决antd在 <code>^5.13.x</code> 中提供的 <code>GetRef</code> 导致获取 Input 组件类型为never的问题，采用忽略ts类型行校验</li>
+<li><code>feat</code> 查询oss文件，日期参数设置默认值为当天的日期</li>
+</ul>
+</li>
 </ul>]]></content>
         <category label="个人经历" term="个人经历"/>
     </entry>
