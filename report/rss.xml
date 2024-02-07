@@ -454,6 +454,46 @@
 <li><code>feat</code> 查询oss文件，日期参数设置默认值为当天的日期</li>
 </ul>
 </li>
+<li>
+<p><strong>1 月 29 日（Mon）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 动卡首页的卡片样式改版，设置动卡图片，调整内容排版，分数取整</li>
+</ul>
+</li>
+<li>
+<p><strong>1 月 30 日（Tues）</strong></p>
+<p>练习算法题：01背包、分割等和子集</p>
+</li>
+<li>
+<p><strong>1 月 31 日（Wed）</strong></p>
+<p>记录算法笔记</p>
+</li>
+<li>
+<p><strong>2 月 01 日（Thur）</strong></p>
+<p>音频合成：</p>
+<ul>
+<li><code>feat</code> 耳语页，新增生成音频模块，构建视图层</li>
+</ul>
+</li>
+<li>
+<p><strong>2 月 02 日（Fri）</strong></p>
+<p>音频合成：</p>
+<ul>
+<li><code>feat</code> 完成生成音频模块，调整Form排版</li>
+<li><code>fix</code> 移除其中一个发音人选项导致无法生成音频</li>
+</ul>
+<p>练习并解决算法一和零</p>
+</li>
+<li>
+<p><strong>2 月 04 日（Sun）</strong></p>
+<p>练习目标和</p>
+</li>
+<li>
+<p><strong>2 月 05 日 - 2 月 07 日（Mon - Wed）</strong></p>
+<p>练习并总结归纳之前的动规</p>
+<p>处理同学遇到的劳动纠纷，简述：老板以工作未完成为理由，不予办理离职和结算工资，年后仲裁。</p>
+</li>
 </ul>]]></content:encoded>
             <category>个人经历</category>
         </item>
