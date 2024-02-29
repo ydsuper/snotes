@@ -493,6 +493,54 @@
 <p>练习并总结归纳之前的动规</p>
 <p>处理同学遇到的劳动纠纷，简述：老板以工作未完成为理由，不予办理离职和结算工资，年后仲裁。</p>
 </li>
+<li>
+<p>2 月 08 日 - 2 月 17 日（Thur - Sat）</p>
+<p>—— 春节十天假期 ——</p>
+</li>
+<li>
+<p><strong>2 月 18 日（Sun）</strong></p>
+<p>返工第一天，整理项目资料等文件。ps：请假的同事挺多~</p>
+</li>
+<li>
+<p><strong>2 月 19 日（Mon）</strong></p>
+<p>有事，请假一天</p>
+</li>
+<li>
+<p><strong>2 月 20 日（Tues）</strong></p>
+<p>相关资料整理完毕</p>
+</li>
+<li>
+<p><strong>2 月 21 日 - 2 月 23 日（Wed - Fri）</strong></p>
+<p>内部Web知识库学习</p>
+</li>
+<li>
+<p><strong>2 月 26 日（Mon）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 动卡首页的卡片，拿到相应的图片集，设置对应的图片，利用vite的URL引入方式，封装公共方法动态引入图片</li>
+</ul>
+<p>StoryEditor：</p>
+<ul>
+<li>copy UnityLauncher项目，并删减页面，设置相关信息为 Editor，初始化提交仓库</li>
+</ul>
+</li>
+<li>
+<p><strong>2 月 27 日（Tues）</strong></p>
+<p>阅读学习</p>
+</li>
+<li>
+<p><strong>2 月 28 日（Wed）</strong></p>
+<p>X3仪表盘：</p>
+<ul>
+<li><code>feat</code> 添加新的动卡数据，以及对应的Cover图片</li>
+</ul>
+</li>
+<li>
+<p><strong>2 月 28 日（Thur）</strong></p>
+</li>
+<li>
+<p><strong>2 月 28 日（Fri）</strong></p>
+</li>
 </ul>]]></content>
         <category label="个人经历" term="个人经历"/>
     </entry>
@@ -501,7 +549,7 @@
         <id>http://ydsuper.github.io/snotes/report/tool</id>
         <link href="http://ydsuper.github.io/snotes/report/tool"/>
         <updated>2023-12-01T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[笔者的markdown小帮手，提高有趣灵活且便捷的语法小技巧的支持]]></summary>
+        <summary type="html"><![CDATA[笔者的markdown小帮手，提供有趣灵活且便捷的语法小技巧的支持]]></summary>
         <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="文档语法扩展">文档语法扩展<a href="http://ydsuper.github.io/snotes/report/tool#%E6%96%87%E6%A1%A3%E8%AF%AD%E6%B3%95%E6%89%A9%E5%B1%95" class="hash-link" aria-label="文档语法扩展的直接链接" title="文档语法扩展的直接链接">​</a></h2>
 <h3 class="anchor anchorWithStickyNavbar_LWe7" id="注释标记语法扩展">注释标记语法扩展<a href="http://ydsuper.github.io/snotes/report/tool#%E6%B3%A8%E9%87%8A%E6%A0%87%E8%AE%B0%E8%AF%AD%E6%B3%95%E6%89%A9%E5%B1%95" class="hash-link" aria-label="注释标记语法扩展的直接链接" title="注释标记语法扩展的直接链接">​</a></h3>
 <table><thead><tr><th style="text-align:left">语法</th><th style="text-align:left">描述</th></tr></thead><tbody><tr><td style="text-align:left"><code>:::tip:::</code></td><td style="text-align:left">提示或建议</td></tr><tr><td style="text-align:left"><code>:::note:::</code></td><td style="text-align:left">一般性注释或说明</td></tr><tr><td style="text-align:left"><code>:::warning:::</code></td><td style="text-align:left">警告或注意事项</td></tr><tr><td style="text-align:left"><code>:::danger:::</code></td><td style="text-align:left">表示危险或需要谨慎的内容</td></tr><tr><td style="text-align:left"><code>:::info:::</code></td><td style="text-align:left">提供额外的信息</td></tr><tr><td style="text-align:left"><code>:::success:</code></td><td style="text-align:left">成功或积极的信息</td></tr></tbody></table>
