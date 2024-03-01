@@ -538,9 +538,17 @@
 </li>
 <li>
 <p><strong>2 月 28 日（Thur）</strong></p>
+<p>阅读文档</p>
+<ul>
+<li>React18后，可以不手动调用 <code>unstable_batchedUpdates</code> 进行异步批量更新</li>
+<li>利用发布订阅模式实现一个高性能的hook，监听元素尺寸变化</li>
+<li>类组件处理异常边界，仅子组件报错</li>
+<li>封装子组件 Radio，巧妙操控子组件的属性 name</li>
+</ul>
 </li>
 <li>
 <p><strong>2 月 28 日（Fri）</strong></p>
+<p>《终章》叠纸最后一天，离职。</p>
 </li>
 </ul>]]></content:encoded>
             <category>个人经历</category>
