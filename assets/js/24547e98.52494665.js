@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5246],{9777:e=>{e.exports=JSON.parse('{"title":"Node","slug":"/category/node","permalink":"/snotes/docs/category/node","navigation":{"previous":{"title":"Flutter \u5f00\u53d1","permalink":"/snotes/docs/Flutter/"},"next":{"title":"Express","permalink":"/snotes/docs/Node/Express"}}}')}}]);
