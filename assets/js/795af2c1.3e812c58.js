@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1586],{7825:e=>{e.exports=JSON.parse('{"title":"Vue","slug":"/category/vue","permalink":"/snotes/docs/category/vue","navigation":{"previous":{"title":"React.js","permalink":"/snotes/docs/React/"},"next":{"title":"Vue.js 3.x","permalink":"/snotes/docs/Vue/Vue3.x"}}}')}}]);
