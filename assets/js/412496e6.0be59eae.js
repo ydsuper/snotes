@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9294],{91607:e=>{e.exports=JSON.parse('{"authors":[{"name":"YDSUPER","title":"\u4e0d\u61c2\u5c31\u95ee\uff0c\u5f02\u6b65\u5230\u5e95","url":"https://github.com/ydsuper","imageURL":"https://github.com/ydsuper.png","key":"ydsuper","page":null,"count":1}]}')}}]);
